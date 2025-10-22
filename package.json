@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RogelioFlores14/backendsenati/issues"
   },
-  "homepage": "https://github.com/RogelioFlores14/backendsenati#readme"
+  "homepage": "https://github.com/RogelioFlores14/backendsenati#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
